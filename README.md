@@ -15,6 +15,6 @@ Il progetto consiste nella creazione di un sistema multibiometrico per il ricono
 
 ## Architettura del sistema:
 
-<img src="https://github.com/R-dilorenzo/Riconoscimento_emozioni_Pepper/blob/master/img/architettura_proposta.png" alt="architettura del sistema proposto" width="500px" height="650px">
+<img src="https://github.com/R-dilorenzo/Riconoscimento_emozioni_Pepper/blob/master/img/architettura_proposta.png" alt="architettura del sistema proposto" width="550px" height="650px">
 
 in aggiornamento...
