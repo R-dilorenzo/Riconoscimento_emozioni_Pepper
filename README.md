@@ -120,3 +120,10 @@ Mentre nel thread principale il robot esegue animazioni e conversazioni
 
 ```
 
+
+
+## Testing:
+
+Le reti neurali sono state testate utilizzando per la rete volto il dataset FER-2013 e per la rete voce i dataset SAVEE e RAVDESS.
+Il criterio di fusione è stato testato su un subdataset, creando 2100 individui chimera, prendendo un subdataset del dataset volto e un subdataset dei dataset voce, escludendo le ripetizioni, e si è ottenuto un valore di accuratezza di 74,38%.
+E' possibile testare le reti neurali singolarmente e nella cartella testing vi sono i codici per scattare foto [takePhoto.py](https://github.com/R-dilorenzo/Riconoscimento_emozioni_Pepper/blob/master/testing/takePhoto.py) e registrare un audio [RecordVoice.py](https://github.com/R-dilorenzo/Riconoscimento_emozioni_Pepper/blob/master/testing/RecordingVoice.py).Le foto e audio registrate con il pc possono essere inserite nelle funzioni delle due reti neurali.
